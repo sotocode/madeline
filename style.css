@@ -42,7 +42,7 @@ a {
 
 /*-- Page Style --*/
 body {
-  background-image: url(images/background.jpg);
+  background-image: url("images/background.jpg");
   background-repeat: repeat;
   background-size: 200%;
   background-color:#fff8e8;
@@ -68,7 +68,7 @@ body {
 
 nav {
   background-color: #fff8e8;
-  background-image: url(images/background.jpg);
+  background-image: url("images/background.jpg");
   background-repeat: repeat;
   background-size: 200%;
   position: fixed;
